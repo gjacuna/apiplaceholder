@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "g@cumplo.com",
+      "validated": true
+    },
+    {
+      "id": 2,
+      "email": "o@cumplo.com",
+      "validated": true
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 1,
+      "name": "Cumplo Chile SA",
+      "type": "enterprise",
+      "validated":true
+     },
+     {
+       "id": 2,
+       "name": "Oliver Vega",
+       "type": "person",
+       "validated":false
+      }
+  ],
+}
